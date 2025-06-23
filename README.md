@@ -29,7 +29,7 @@ As a hobby, I write books, design flyers and logos, and read ancient Greek philo
 
 - **Name:** Tsenaye Namushinga
 - **Profile:** Fullstack Developer
-- **Email:** tsenayen@gmail.com
+- **Email:** ceo@namushinga.com
 - **Phone:** (081) 573 8638
 - **Location:** Windhoek, Namibia
 
@@ -137,7 +137,7 @@ Kindly contact me for any business collaborations or networking. Let's put our h
 
 - 📍 Windhoek, Namibia
 - 📞 081 573 8638
-- 📧 tsenayen@gmail.com
+- 📧 ceo@namushinga.com
 
 ---
 
